@@ -1,0 +1,4 @@
+git config --global user.email "<nimishaua18@gmail.com>"
+git config --global user.name "<nimishaua>"
+git config --global pull.rebase false
+git config --global credential.helper store
